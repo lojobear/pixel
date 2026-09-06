@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LogoBot</string>
+    <string name="accessibility_description">Injects calibrated controller touches into PS Remote Play so the user can automate repetitive logo-editor actions.</string>
+</resources>
